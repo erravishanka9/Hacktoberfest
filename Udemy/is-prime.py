@@ -11,5 +11,5 @@ def is_prime(number):
     
 print( 15 is a prime  is_prime(15))
 print(10 is prime   is_prime(10))
-
+print("happy coding")
 //hacktoberfest
