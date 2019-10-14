@@ -4,8 +4,10 @@ long aVeryBigSum(int ar_count, long* ar) {
     
     for(; count < ar_count; ++count) {
         sum += ar[count];
+
     }
 
     return sum;
+    printf("happy hacking");
 
 }
